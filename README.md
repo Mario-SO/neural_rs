@@ -1,6 +1,8 @@
 # 🧠 Simple Neural Network in Rust 🤖
 
-Welcome to the **Simple Neural Network** project implemented in **Rust**! 🦀 This program demonstrates the fundamentals of a neural network with forward and backpropagation from scratch. 
+Welcome to the **Simple Neural Network** project implemented in **Rust**! 🦀 This program demonstrates the fundamentals of a neural network with forward and backpropagation from scratch.
+
+The code is inspired from [this video](https://www.youtube.com/watch?v=LA4I3cWkp1E) in which the guy coded the same but in C language
 
 ## 🚀 Getting Started
 
